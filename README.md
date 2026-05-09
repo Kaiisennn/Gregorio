@@ -3,11 +3,9 @@
 **Subject / Project:** MID-TERM LABORATORY
 
 📌 **Project Info**
-Simple vertical mobile game built in Godot Engine 4.
-- Touch/mouse control
+Simple  game built in Godot Engine 4.
 - Score & High Score system
 - Background music + death sound effects
-- Full vertical screen (mobile-ready)
 - Smooth movement & game mechanics
 
 📂 **Files**
